@@ -3307,7 +3307,7 @@
 	)
 	(wire
 		(pts
-			(xy 15.24 113.792) (xy 27.178 113.792)
+			(xy 21.844 113.792) (xy 33.782 113.792)
 		)
 		(stroke
 			(width 0)
@@ -3337,7 +3337,7 @@
 	)
 	(wire
 		(pts
-			(xy 15.748 108.712) (xy 27.178 108.712)
+			(xy 22.352 108.712) (xy 33.782 108.712)
 		)
 		(stroke
 			(width 0)
@@ -3387,7 +3387,7 @@
 	)
 	(wire
 		(pts
-			(xy 15.748 107.95) (xy 15.748 108.712)
+			(xy 22.352 107.95) (xy 22.352 108.712)
 		)
 		(stroke
 			(width 0)
@@ -3447,7 +3447,7 @@
 	)
 	(wire
 		(pts
-			(xy 15.24 111.252) (xy 27.178 111.252)
+			(xy 21.844 111.252) (xy 33.782 111.252)
 		)
 		(stroke
 			(width 0)
@@ -5189,7 +5189,7 @@
 		(uuid "3bd12325-6211-4c25-bc83-253365888b35")
 	)
 	(label "PIN.3.3v"
-		(at 15.24 113.792 0)
+		(at 21.844 113.792 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5259,7 +5259,7 @@
 		(uuid "6b2fd708-f70a-4b09-8080-5227878d308e")
 	)
 	(label "2.8V"
-		(at 15.24 111.252 0)
+		(at 21.844 111.252 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5577,7 +5577,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 15.748 107.95 180)
+		(at 22.352 107.95 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5585,7 +5585,7 @@
 		(dnp no)
 		(uuid "1d841bbd-563d-4acd-8bfa-7b44c3283634")
 		(property "Reference" "#PWR010"
-			(at 15.748 101.6 0)
+			(at 22.352 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5594,7 +5594,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 18.542 107.696 0)
+			(at 25.146 107.696 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5602,7 +5602,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 15.748 107.95 0)
+			(at 22.352 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5611,7 +5611,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 15.748 107.95 0)
+			(at 22.352 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5620,7 +5620,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 15.748 107.95 0)
+			(at 22.352 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5787,7 +5787,7 @@
 	)
 	(symbol
 		(lib_id "EasyEDA:XC6206P282MR-G")
-		(at 33.528 111.252 0)
+		(at 40.132 111.252 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5796,7 +5796,7 @@
 		(fields_autoplaced yes)
 		(uuid "47f45f5c-2776-435a-a32b-43f7dbc4a332")
 		(property "Reference" "U5"
-			(at 40.64 109.9819 0)
+			(at 47.244 109.9819 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5805,7 +5805,7 @@
 			)
 		)
 		(property "Value" "XC6206P282MR-G"
-			(at 40.64 112.5219 0)
+			(at 47.244 112.5219 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5814,7 +5814,7 @@
 			)
 		)
 		(property "Footprint" "EasyEDA:SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR"
-			(at 33.528 121.412 0)
+			(at 40.132 121.412 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5823,7 +5823,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/C2891263.pdf"
-			(at 33.528 123.952 0)
+			(at 40.132 123.952 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5832,7 +5832,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 33.528 111.252 0)
+			(at 40.132 111.252 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5841,7 +5841,7 @@
 			)
 		)
 		(property "Manufacturer" "TOREX(特瑞仕)"
-			(at 33.528 126.492 0)
+			(at 40.132 126.492 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5850,7 +5850,7 @@
 			)
 		)
 		(property "MPN" "XC6206P282MR-G"
-			(at 33.528 129.032 0)
+			(at 40.132 129.032 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5859,7 +5859,7 @@
 			)
 		)
 		(property "LCSC Part" "C2891263"
-			(at 33.528 131.572 0)
+			(at 40.132 131.572 0)
 			(effects
 				(font
 					(size 1.27 1.27)
