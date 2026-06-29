@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "min_clearance": 0.2
         }
       },
       "diff_pair_dimensions": [
@@ -464,7 +464,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "MAX10S.kicad_pro",
+    "filename": "SIM65M.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -499,12 +499,26 @@
     "meta": {
       "version": 4
     },
-    "net_colors": null,
+    "net_colors": {
+      "/RF_IN": "rgb(241, 10, 255)"
+    },
     "netclass_assignments": null,
     "netclass_patterns": [
       {
         "netclass": "RF_GNSS",
         "pattern": "/RF_IN"
+      },
+      {
+        "netclass": "RF_GNSS",
+        "pattern": "/RF_IN_1"
+      },
+      {
+        "netclass": "RF_GNSS",
+        "pattern": "/RF_IN_2"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/RF_IN_2"
       }
     ]
   },

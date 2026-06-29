@@ -1,4 +1,4 @@
-26614587048639339
+26627059384529277
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -59920,6 +59920,13 @@ ANT-TH_BWGNSCNX8-8W4
 1
 1
 EasyEDA
+ANT-TH_BWGNSCNX10
+
+
+0
+1
+1
+EasyEDA
 ANT-TH_L25.0-W25.0
 
 
@@ -59997,6 +60004,13 @@ CONN-TH_530480210
 2
 2
 EasyEDA
+CRYSTAL-SMD_4P-L3.2-W2.5-BL
+
+
+0
+4
+4
+EasyEDA
 CRYSTAL-SMD_L3.2-W1.5
 
 
@@ -60038,6 +60052,13 @@ GPSM-SMD_18P-L10.0-W9.7-P1.10
 0
 18
 18
+EasyEDA
+LGA-53_L4.5-W4.5-R9-C9-P0.50-TL_MIA-M10Q
+
+
+0
+53
+53
 EasyEDA
 LQFP-48_L7.0-W7.0-P0.50-LS9.0-BL
 
@@ -60200,6 +60221,13 @@ TESTPOINT-SMD_L3.8-W2.0_RH-5019
 1
 1
 EasyEDA
+TSSOP-20_L6.5-W4.4-P0.65-LS6.4-BL
+
+
+0
+20
+20
+EasyEDA
 UFQFPN-28_L4.0-W4.0-P0.50-BL
 
 
@@ -60213,6 +60241,20 @@ UFQFPN-32_L5.0-W5.0-P0.50-BL-EP
 0
 33
 33
+EasyEDA
+UFQFPN-48_L7.0-W7.0-P0.50-BL-EP5.6
+
+
+0
+49
+49
+EasyEDA
+VQFN-14_L3.5-W3.5-P0.50-BL-EP
+
+
+0
+15
+15
 EasyEDA
 VSON8_L2.0-W2.3-P0.50-LS3.1-BL
 
@@ -96984,6 +97026,13 @@ M20047-1_foot
 0
 7
 7
+Snapeda
+MIAM10Q00B
+MIA-M10Q-00B-1
+Integrated Circuit
+0
+53
+53
 Snapeda
 MICROQTJ-foot
 
